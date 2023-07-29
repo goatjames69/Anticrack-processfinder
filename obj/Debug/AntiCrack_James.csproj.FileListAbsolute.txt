@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\AntiCrack_James\bin\Debug\AntiCrack_James.exe.config
+C:\Users\Administrator\source\repos\AntiCrack_James\bin\Debug\AntiCrack_James.exe
+C:\Users\Administrator\source\repos\AntiCrack_James\bin\Debug\AntiCrack_James.pdb
+C:\Users\Administrator\source\repos\AntiCrack_James\obj\Debug\AntiCrack_James.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\AntiCrack_James\obj\Debug\AntiCrack_James.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\AntiCrack_James\obj\Debug\AntiCrack_James.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AntiCrack_James\obj\Debug\AntiCrack_James.exe
+C:\Users\Administrator\source\repos\AntiCrack_James\obj\Debug\AntiCrack_James.pdb
+C:\Users\Administrator\source\repos\AntiCrack_James\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\source\repos\AntiCrack_James\obj\Debug\AntiCrack_James.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\source\repos\AntiCrack_James\obj\Debug\AntiCrack_James.csproj.CopyComplete
